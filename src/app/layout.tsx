@@ -2,6 +2,8 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
+export const dynamic = "force-dynamic";
+
 export const metadata = {
   title: "DirtyRamen Skate Shop",
   description: "Independent skate shop. Butler, PA.",
