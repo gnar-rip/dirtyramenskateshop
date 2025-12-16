@@ -15,8 +15,8 @@ export default function AboutPage() {
         <div className="max-w-3xl mx-auto space-y-8 text-white/80 leading-relaxed text-lg">
           <p>
             DirtyRamen Skate Shop is an independent skate shop based in Butler,
-            Pennsylvania. We exist to support skateboarding at the local level —
-            the kind that happens in parking lots, crusty spots, DIY parks, and
+            Pennsylvania. We exist to support skateboarding at the local level.
+            The kind that happens in parking lots, crusty spots, DIY parks, and
             places that don’t show up on travel guides.
           </p>
 
@@ -31,8 +31,8 @@ export default function AboutPage() {
           <p>
             When it comes to merch and apparel, our goal is to work with local
             artists and local printers whenever possible. Keeping things
-            Pennsylvania-based isn’t a marketing angle — it’s a deliberate
-            choice.
+            Pennsylvania-based isn’t a marketing angle. It’s a deliberate
+            choice, because this is our home.
           </p>
 
           <p>
@@ -44,6 +44,15 @@ export default function AboutPage() {
           <p className="font-semibold text-white">
             This shop exists because skateboarding still matters.
           </p>
+          <blockquote className="pt-16 border-t border-white/10 text-center">
+          <p className="text-xl md:text-2xl italic text-white/90 max-w-2xl mx-auto">
+            “Skateboarding doesn’t owe you shit. It owes you wheel bite in the rain.
+            You owe skateboarding.”
+          </p>
+          <span className="mt-4 block text-sm uppercase tracking-wider text-white/50">
+            Jake Phelps
+          </span>
+          </blockquote>
         </div>
       </section>
     </main>

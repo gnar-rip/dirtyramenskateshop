@@ -25,7 +25,7 @@ export default function Hero() {
           Stocking core brands from{" "}
           <span className="text-white/70">DLX</span>,{" "}
           <span className="text-white/70">NHS</span>, and{" "}
-          <span className="text-white/70">Baker</span> —
+          <span className="text-white/70">Baker</span> and sticking
           alongside local projects and small runs.
         </p>
       </div>
